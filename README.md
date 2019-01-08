@@ -33,7 +33,7 @@ At the beginning we create the `PerformDeposit` command,  it contains an anonymo
 
 Also you can define custom fields, in this case `Amount` contains quantity to being depositen in an account.
 
-## Event
+## Event--
 
 An event is the notification that some happend in the past, you can view an event as the representation of reaction of **a command after being executed**. All events should be represented as verbs in the past tense such as `CustomerRelocated`, `CargoShipped` or `InventoryLossageRecorded`
 
