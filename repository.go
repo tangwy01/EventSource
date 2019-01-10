@@ -1,6 +1,6 @@
 package eventhus
 
-// Repository is responsible to generate an Aggregate
+// Repository is responsible to generate an Aggregate0000
 // save events and publish it
 type Repository struct {
 	eventStore EventStore
